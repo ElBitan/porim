@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Tinos:ital@1&display=swap');
+body{background-image: url(https://davidroytman.com/wp-content/uploads/2019/09/IMG_0064-1.png);}
+body{font-family: 'Tinos', serif}
+p{color: rgb(255, 0, 0);}
+h3{color: blue;}
+a{color: black;
+background-color: white;}
+
+h3:link {color:#FF0000;background-color:#FF7F7F;}              /* Lien non visité */
+h3:visited {color:#FF0000;background-color:#FF7F7F;}          /* Lien visité */
+h3:hover {color:#FFFF00;background-color:#FF00FF;}            /* Lien survolé */
+h3:active {color:#0000FF;background-color:#FF7F7F;}           /* Lien sélectionné */
+h3:link {color:#FF0000;}              /* Lien non visité */
+h3:visited {color:#00FF00;}          /* Lien visité */
+h3:hover {color:#FFFF00;}            /* Lien survolé*/
+h3:active {color:#0000FF;}           /* Lien sélectionné */
+
+p:link {color:#FF0000;background-color:rgb(0, 255, 255);}              /* Lien non visité */
+p:visited {color:#FF0000;background-color :rgb(3, 250, 250);}          /* Lien visité */
+p:hover {color:rgb(238, 255, 0);background-color:rgb(255, 4, 4);}            /* Lien survolé */
+p:active {color:#0000FF;background-color:rgb(0, 255, 255);}           /* Lien sélectionné */
+
+a:link {color:#FF0000;background-color:rgb(31, 255, 10);}              /* Lien non visité */
+a:visited {color:#FF0000;background-color :rgb(18, 190, 233);}          /* Lien visité */
+a:hover {color:rgb(238, 255, 0);background-color:rgb(0, 174, 255);}            /* Lien survolé */
+a:active {color:#0000FF;background-color:rgb(224, 221, 13);}           /* Lien sélectionné */
+@media screen and (max-width:1500px),(min-width:1000px) {
+    body{
+        width:90%;
+        height: 90%;
+    }
+    iframe{
+       width: 90%;
+   }
+ img{width: 90%;}
+    
+ }
