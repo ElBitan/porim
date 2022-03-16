@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="meguilat ester.css">
+</head>
+<body>
+    <img src="https://davidroytman.com/wp-content/uploads/2019/09/IMG_0064-1.png" alt="img">
+   <a href="https://www.torah-box.com/docs-hizouk/meguilat-esther.pdf">meguilat-esther pdf</a>
+   <p>celui qui lit la Méguila d'Esther récite ces 3 bénédiction:</p>
+    <h3>: בָרּוְך אַתָה ה' אֱלהֵינּו מֶלֶך הָעֹולָם אֲשֶר קִדְשָנּו בְמִצְוֹותָיו וְצִוָנּו עַל מִקְרָא מְגִלָה
+       </h3>
+       <h3>
+       : בָרּוְך אַתָה ה' אֱלהֵינּו מֶלֶך הָעֹולָם ׁשֶעָשָה נִסִים לַאֲבֹותֵינּו בַיָמִים הָהֵם בַזְמָן הַזֶה
+    </h3>
+    <h3>ּ :בָרּוְך אַתָה ה' אֱלהֵינּו מֶלֶך הָעֹולָם ׁשֶהֶחֱיָנּו וְקִיְמָנּו וְהִגִיעָנּו לזְמָן הַזֶה</h3>
+    <h2></h2>
+</body>
+</html>
