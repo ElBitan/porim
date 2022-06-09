@@ -1,10 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Tinos:ital@1&display=swap');
 body{background-image: url(https://davidroytman.com/wp-content/uploads/2019/09/IMG_0064-1.png);}
 body{font-family: 'Tinos', serif}
-p{color: rgb(255, 0, 0);}
-h3{color: blue;}
+p{color: rgb(255, 0, 0);
+ text-align: center;
+}
+h3{color: blue;
+     text-align: center;
+}
 a{color: black;
-background-color: white;}
+background-color: white;
+display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
 
 h3:link {color:#FF0000;background-color:#FF7F7F;}              /* Lien non visité */
 h3:visited {color:#FF0000;background-color:#FF7F7F;}          /* Lien visité */
