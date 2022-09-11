@@ -1,17 +1,17 @@
 {
   "name": "Test",
-  "short_name": "Test",
-  "lang": "en",
+  "short_name": "megillat esther",
+  "lang": "fr",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "white",
   "theme_color": "white",
   "icons": [{
-      "src": "/img/icon-128.png",
+      "src": "https://th.bing.com/th/id/OIP.aF2ZuaYpAmTvkCmjoCcfNAHaEG?pid=ImgDet&rs=1",
         "sizes": "128x128",
         "type": "image/png"
       }, {
-        "src": "/img/icon-144.png",
+        "src": "https://th.bing.com/th/id/OIP.aF2ZuaYpAmTvkCmjoCcfNAHaEG?pid=ImgDet&rs=1",
         "sizes": "144x144",
         "type": "image/png"
       }, {
